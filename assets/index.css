@@ -43,7 +43,8 @@ body {
 }
 
 .sold-out {
-  color: lightgray;
+  color: blue;
+  font-weight: bold;
 }
 
 img {
