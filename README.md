@@ -176,6 +176,9 @@ attempting the bonus deliverables!**
    details with the new movie's details. Note that you may have to make an
    additional GET request to access the movie's details.
 
+### LICENSE
+This content of this site is licensed under the MIT license Copyright (c) 2024 Basil Wabuke
+
 
 
 
